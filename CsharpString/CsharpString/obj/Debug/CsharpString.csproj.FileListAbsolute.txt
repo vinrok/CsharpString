@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\CsharpString\CsharpString\bin\Debug\CsharpString.exe.config
+C:\Users\Owner\source\repos\CsharpString\CsharpString\bin\Debug\CsharpString.exe
+C:\Users\Owner\source\repos\CsharpString\CsharpString\bin\Debug\CsharpString.pdb
+C:\Users\Owner\source\repos\CsharpString\CsharpString\obj\Debug\CsharpString.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CsharpString\CsharpString\obj\Debug\CsharpString.exe
+C:\Users\Owner\source\repos\CsharpString\CsharpString\obj\Debug\CsharpString.pdb
